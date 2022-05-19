@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "21437395287",
-    "project_id": "latihan-firebase-f09e2",
-    "storage_bucket": "latihan-firebase-f09e2.appspot.com"
+    "project_number": "942488126113",
+    "project_id": "ditonton-b1a8f",
+    "storage_bucket": "ditonton-b1a8f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:21437395287:android:7828ef47639431d7d5ce12",
+        "mobilesdk_app_id": "1:942488126113:android:fe3f19216691d96f4d26e0",
         "android_client_info": {
           "package_name": "com.dicoding.ditonton"
         }
       },
       "oauth_client": [
         {
-          "client_id": "21437395287-1cgfsprc3tgui8hj3schmhdffja7thlq.apps.googleusercontent.com",
+          "client_id": "942488126113-4813qbbec85btt0a842bjd0c6eca0ejg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDmIzSQz3z4tqxfY82_GEbIkK4DMIBRUw4"
+          "current_key": "AIzaSyBCBVcNp7I3fgdeoh-JcG3WxhlQXJJSm8M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "21437395287-1cgfsprc3tgui8hj3schmhdffja7thlq.apps.googleusercontent.com",
+              "client_id": "942488126113-4813qbbec85btt0a842bjd0c6eca0ejg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
